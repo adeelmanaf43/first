@@ -22,7 +22,7 @@ jobs:
       uses: actions/setup-node@v2-beta
       with:
     
-        node-version: 12# optional
+        version: 12# optional
     - name: GitHub Action for Yarn
   
       uses: Borales/actions-yarn@v2.3.0
